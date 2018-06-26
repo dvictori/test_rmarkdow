@@ -1,9 +1,4 @@
----
-title: "R Notebook"
-output: 
-  html_document: 
-    keep_md: yes
----
+# R Notebook
 
 Esse é um teste de R Markdown. O arquivo foi criado no RStudio como um notebook.
 
@@ -11,9 +6,12 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
-```{r}
+
+```r
 plot(cars)
 ```
+
+![](teste_github_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
 
